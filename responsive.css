@@ -1,0 +1,53 @@
+@media(min-width:12em){
+    .wide-view{
+        display: none;
+    }
+    .last-sect{
+        display: none;
+    }
+    .developer h2{
+        font-size: 3.8em;
+        font-weight: 540;
+        line-height: 1;
+        letter-spacing: -0.05em;
+        font-family: SuisseIntl,sans-serif;
+        
+    }
+    .developer p{
+        font-size: 1.52rem;
+    }
+    .form-section{
+        flex-direction: column;
+        align-items: center;
+        padding-top: 2em;
+    }
+    .building{
+        width: 95%;
+    }
+    .img-1{
+        height: 50vmin;
+        width: 90vmin;
+        border-radius: 0.7em;
+    }
+    .floating{ 
+        width: 74vw;
+        height: 23vh;
+        top:65%;
+        left: 9%;
+    }
+    .svgs{
+        text-align: center;    }
+}
+
+@media(min-width:47.5em){
+    .wide-view{
+        display: block;
+    }
+    .mobile button{
+        display: none;
+    }
+    .last-sect{
+        display: block;
+        flex-direction: row;
+    }
+}

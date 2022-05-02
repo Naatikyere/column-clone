@@ -1,0 +1,289 @@
+@keyframes dance{
+    0%{
+        opacity: 0.5;
+        left: 5.2em;
+    }
+    10%{
+        opacity: 0.5;
+        left: 6em;
+
+    }
+    25%{
+        opacity: 0.5;
+       left: 7em;
+
+    }
+    35%{
+        opacity: 0.5;
+       left:8em ;
+    }
+    45%{
+        opacity: 0.5;
+        left: 9em;
+
+    }
+    50%{
+        opacity: 0.5;
+        left: 9.5em;
+    }
+    55%{
+        opacity: 0.5;
+        left: 10em;
+
+    }
+    60%{
+        opacity: 0.5;
+        left: 10.5em;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+        animation-iteration-count: infinite;
+        animation-fill-mode: forwards;
+    }
+}
+@keyframes last-dance {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+        left: 11.5em;
+        
+    }
+}
+@keyframes magic1{
+    0%{
+        opacity: 0;
+        
+
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic2{
+    0%{
+        opacity: 0;
+        
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic3{
+    0%{
+        opacity: 0;
+        
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic4{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic5{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic6{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic7{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic9{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic10{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic11{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic12{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic13{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic14{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic15{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic16{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic17{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic18{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic19{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic20{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic21{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic22{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic23{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic24{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes magic25{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+        color: black;
+    }
+}
+@keyframes first-bouncing{
+    0%{
+        background-image: linear-gradient(60deg, rgba(148, 239, 183,1), rgba(126, 167, 233,1));
+        opacity: 0.4;
+    }
+    50%{
+        background-image: linear-gradient(95deg, rgba(126, 167, 233,1) ,rgba(148, 239, 183,1));
+        opacity: 0.6;
+    }
+    100%{
+        background-image: linear-gradient(30deg, rgba(148, 239, 183,1), rgba(126, 167, 233,1));
+        opacity: 0.7;
+    }
+}
