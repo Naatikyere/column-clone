@@ -368,4 +368,71 @@ animation: first-bouncing 5s 1s ease-in-out infinite;
 .bg-way{
     position: relative;
     z-index: 100;
+}/* End of working form */
+
+/* beging second phase */
+
+.main-second{
+    position: relative;
+   top: -25em;
+}
+.second{
+    background-color:rgb(154, 199, 251);
+    height: 100vh;
+    opacity: 0.5;
+    z-index: 300;
+}
+.second-0{
+    background-color: aliceblue;
+    height: inherit;
+    width: 100%;
+}
+.second-0-1{
+    position: absolute;
+    background-image: url(images/starboy.svg);
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    background-size: 20px;
+    background-repeat: repeat;
+    opacity: 0.07;
+    z-index: 100;
+}
+.second-part-0{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin-bottom: 1.3em;
+}
+.second-part-1{
+    position: absolute;
+    top: 0;
+    padding-top: 4.5em;
+    padding-left: 1.6em;
+    padding-right: 1.2em;
+    width: 100%;
+    z-index: 400;
+}
+.mark-1{
+    font-size: 1.1em;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.finances{
+    padding-top: 0.3em;
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.1;
+}
+.unique{
+    color: black;
+}
+.before{
+    font-size: 1.6em;
+    padding-top: 5.5em;
+    font-weight: 550;
+    padding-left: 0.2em;
+    padding-right: 0.5em;
+    line-height: 1.3;
+    color: #95a2b3;
 }
