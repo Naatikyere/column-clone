@@ -1,0 +1,26 @@
+{
+  "name": "column",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass scss/main.scss build/css/style.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naatikyere/column-clone.git"
+  },
+  "keywords": [],
+  "author": "Naatikyere Prosper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naatikyere/column-clone/issues"
+  },
+  "homepage": "https://github.com/Naatikyere/column-clone#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "font-awesome": "^4.7.0",
+    "nodash": "^0.12.0",
+    "node-sass": "^7.0.1"
+  }
+}
